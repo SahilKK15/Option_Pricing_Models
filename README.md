@@ -100,10 +100,3 @@ This repository contains a Python implementation of stock price prediction for A
 | Antithetic Monte Carlo   | 10.35      | 5.58      |
 
 ---
-
-## Future Work
-- Explore other pricing methods like binomial trees.
-- Include support for American options.
-- Extend the application to additional stocks and asset classes.
-
----
