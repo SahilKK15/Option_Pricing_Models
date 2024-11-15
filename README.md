@@ -1,6 +1,3 @@
-The uploaded Jupyter notebook contains 11 code cells and no markdown cells. I'll analyze the code content to create a detailed README file for your GitHub repository. Let me extract the key details.
-
-Here’s a draft for the README file of your GitHub repository:
 
 ---
 
